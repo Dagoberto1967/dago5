@@ -1,6 +1,6 @@
 ---
 title: "MODELOS PROBABILISTICOS DISCRETOS"
-subtitle: "Distribución Binomial"
+subtitle: "Distribución"
 author: 
   - name: Dagoberto Salgado Horta
     affiliation: "Universidad del Tolima"
